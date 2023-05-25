@@ -1,5 +1,5 @@
 {
-  "name": "js",
+  "name": "node",
   "version": "1.0.0",
   "description": "tutorials",
   "main": "hello.js",
@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
+    "jade": "^1.11.0",
     "underscore": "^1.13.6"
-  }
+  },
+  "keywords": [
+    "33eo091e12!"
+  ]
 }
